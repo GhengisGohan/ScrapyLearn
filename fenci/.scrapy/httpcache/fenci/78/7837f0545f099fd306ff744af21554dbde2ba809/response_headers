@@ -1,0 +1,8 @@
+Cache-Control: public, max-age=500
+Expires: Wed, 1 Mar 2017 15:05:52 +0800
+Set-Cookie: payforreadsn=EXPIRED; Path=/; Expires=Tue, 28-Feb-2017 06:57:32 GMT; HttpOnly
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 01 Mar 2017 06:57:34 GMT
+Last-Modified: Wed, 1 Mar 2017 14:57:32 +0800
+Content-Security-Policy-Report-Only: object-src 'self' http://*.qq.com https://*.qq.com; style-src 'self' 'unsafe-inline' http://res.wx.qq.com https://res.wx.qq.com http://mp.weixin.qq.com https://mp.weixin.qq.com; media-src 'self' http://*.qq.com https://*.qq.com http://thirdparty.gtimg.com https://thirdparty.gtimg.com; font-src 'self' data: http://res.wx.qq.com https://res.wx.qq.com http://fonts.gstatic.com https://fonts.gstatic.com; report-uri http://mp.weixin.qq.com/mp/fereport?action=csp_report
+Content-Encoding: deflate

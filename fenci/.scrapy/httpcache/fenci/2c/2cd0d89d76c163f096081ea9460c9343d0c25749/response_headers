@@ -1,0 +1,5 @@
+Access-Control-Allow-Origin: *
+Content-Type: text/plain
+Date: Wed, 01 Mar 2017 06:49:43 GMT
+Cache-Control: max-age=31536000, must-revalidate
+Content-Encoding: gzip

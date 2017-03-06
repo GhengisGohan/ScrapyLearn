@@ -1,0 +1,9 @@
+Set-Cookie: select_city=310000; Domain=.lianjia.com; Path=/
+Set-Cookie: cityCode=sh; Domain=.lianjia.com; Path=/
+Set-Cookie: lianjia_uuid=8522cc7d-a28b-41b1-b786-ad32f6ba4ae4; Domain=.lianjia.com; Expires=Sun, 13-Feb-2022 12:03:29 GMT; Path=/
+Content-Encoding: gzip
+Content-Type: text/html;charset=UTF-8
+Server: Tengine
+Vary: Accept-Encoding
+Content-Language: en
+Date: Tue, 14 Feb 2017 12:03:29 GMT

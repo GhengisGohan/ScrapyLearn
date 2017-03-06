@@ -1,0 +1,17 @@
+X-Aspnet-Version: 4.0.30319
+Last-Modified: Mon, 27 Feb 2017 10:13:59 GMT
+Cache-Control: max-age=172800
+Age: 159746
+Content-Encoding: gzip
+X-Cache: MISS TCP_MISS dirn:10:396214326
+Date: Mon, 27 Feb 2017 10:13:59 GMT
+X-Swift-Savetime: Wed, 01 Mar 2017 06:36:25 GMT
+Eagleid: deba31a214883501856705805e
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Server: Tengine
+Expires: Wed, 01 Mar 2017 10:13:59 GMT
+Timing-Allow-Origin: *
+X-Swift-Cachetime: 172800
+Via: cache10.l2et2-1[0,200-0,H], cache1.l2et2-1[10,0], kunlun10.cn74[17,200-0,M], kunlun9.cn74[18,0]
